@@ -1,1 +1,1 @@
-Redirect to my [website](evilpegasus.github.io).
+Redirect to my [website](https://evilpegasus.github.io/).
